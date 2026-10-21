@@ -378,5 +378,16 @@
       "Pra <b>JOGAR JUNTO</b>: um cria a sala e <b>convida os amigos pelo Steam</b>; os outros <b>aceitam o convite</b> pelo Steam",
       "Todos com o fix aplicado (clicar em Iniciar jogo aqui) e na <b>mesma versão</b> do jogo"
     ]
+  },
+  "1372110": {
+    "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "launch": "ASBR.exe",
+    "howto": [
+      "Abra o <b>Steam</b> e faça login na sua conta",
+      "Aqui no OVERISE, clique em <b>Iniciar jogo</b> (abre pelo ASBR.exe com o online ativo)",
+      "No jogo, entre no modo <b>Online</b> pelo menu principal",
+      "Pra jogar com um amigo, use a <b>Partida com jogador</b> (sala) e convide ou entre pela lista de amigos da Steam",
+      "Seu amigo também precisa estar com o online do OVERISE aplicado"
+    ]
   }
 }
