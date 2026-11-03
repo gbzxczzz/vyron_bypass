@@ -57,16 +57,6 @@
   "2358720": {
     "name": "Black Myth: Wukong"
   },
-  "2638890": {
-    "howto": [
-      "Baixe o <b>Onimusha: Way of the Sword</b> normalmente pela sua Steam (a versao base do jogo)",
-      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
-      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo OnimushaWotS.exe)",
-      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
-    ],
-    "launch": "OnimushaWotS.exe",
-    "name": "Onimusha: Way of the Sword"
-  },
   "2668510": {
     "name": "Red Dead Redemption"
   },
@@ -74,6 +64,16 @@
     "folder": "Avatar Frontiers of Pandora",
     "launch": "afop.exe",
     "name": "Avatar: Frontiers of Pandora"
+  },
+  "289650": {
+    "howto": [
+      "Baixe o <b>Assassin's Creed Unity</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACU.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACU.exe",
+    "name": "Assassin's Creed Unity"
   },
   "311210": {
     "howto": [
@@ -95,6 +95,16 @@
     ],
     "launch": "ACShadows.exe",
     "name": "Assassin's Creed Shadows"
+  },
+  "33230": {
+    "howto": [
+      "Baixe o <b>Assassin's Creed II</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AssassinsCreedIIGame.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "AssassinsCreedIIGame.exe",
+    "name": "Assassin's Creed II"
   },
   "3240220": {
     "launch": "PlayGTAV.exe",
