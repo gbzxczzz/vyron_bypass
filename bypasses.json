@@ -47,8 +47,31 @@
     "launch": "t6sp.exe",
     "name": "Call of Duty: Black Ops II"
   },
+  "2208920": {
+    "bypass": "AssassinsCreedValhalla.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed Valhalla</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACValhalla.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "ACValhalla.exe",
+    "name": "Assassin's Creed Valhalla"
+  },
   "2215200": {
     "name": "LEGO® Batman™: Legacy of the Dark Knight"
+  },
+  "208480": {
+    "bypass": "AssassinCreedIII.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed III</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (coloca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AC3SP.exe com o bypass ativo)",
+      "<b>Desligue a internet</b> antes de jogar para evitar problemas",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "AC3SP.exe",
+    "name": "Assassin's Creed III"
   },
   "234140": {
     "launch": "MadMax.exe",
@@ -68,13 +91,13 @@
   "289650": {
     "bypass": "AssassinsCreedUnity.zip",
     "howto": [
-      "Baixe o <b>Assassin’s Creed Unity</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Baixe o <b>Assassin's Creed Unity</b> normalmente pela sua Steam (a versao base do jogo)",
       "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
       "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACU.exe)",
       "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
     ],
     "launch": "ACU.exe",
-    "name": "Assassin’s Creed Unity"
+    "name": "Assassin's Creed Unity"
   },
   "311210": {
     "howto": [
@@ -90,34 +113,23 @@
   "3035570": {
     "bypass": "AssassinsCreedMirage.zip",
     "howto": [
-      "Baixe o <b>Assassin’s Creed Mirage</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Baixe o <b>Assassin's Creed Mirage</b> normalmente pela sua Steam (a versao base do jogo)",
       "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
       "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACMirage.exe)",
       "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
     ],
     "launch": "ACMirage.exe",
-    "name": "Assassin’s Creed Mirage"
+    "name": "Assassin's Creed Mirage"
   },
   "3159330": {
     "howto": [
-      "Baixe o <b>Assassin’s Creed Shadows</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Baixe o <b>Assassin's Creed Shadows</b> normalmente pela sua Steam (a versao base do jogo)",
       "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
       "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACShadows.exe)",
       "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
     ],
     "launch": "ACShadows.exe",
-    "name": "Assassin’s Creed Shadows"
-  },
-  "33230": {
-    "bypass": "AssassinsCreedII.zip",
-    "howto": [
-      "Baixe o <b>Assassin’s Creed II</b> normalmente pela sua Steam (a versao base do jogo)",
-      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
-      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AssassinsCreedIIGame.exe)",
-      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
-    ],
-    "launch": "AssassinsCreedIIGame.exe",
-    "name": "Assassin’s Creed II"
+    "name": "Assassin's Creed Shadows"
   },
   "3240220": {
     "launch": "PlayGTAV.exe",
@@ -142,12 +154,23 @@
     "launch": "SB-Win64-Shipping.exe",
     "name": "Stellar Blade"
   },
+  "33230": {
+    "bypass": "AssassinsCreedII.zip",
+    "howto": [
+      "Baixe o <b>Assassin's Creed II</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo AssassinsCreedIIGame.exe)",
+      "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
+    ],
+    "launch": "AssassinsCreedIIGame.exe",
+    "name": "Assassin's Creed II"
+  },
   "371660": {
     "name": "Far Cry® Primal"
   },
   "3751950": {
     "launch": "ACBlackFlag.exe",
-    "name": "Assassin’s Creed IV Black Flag (Resynced)"
+    "name": "Assassin's Creed IV Black Flag (Resynced)"
   },
   "3764200": {
     "name": "Resident Evil Requiem"
@@ -169,16 +192,16 @@
     "launch": "bin/WatchDogs2.exe",
     "name": "Watch Dogs 2"
   },
-  "2208920": {
-    "bypass": "AssassinsCreedValhalla.zip",
+  "582160": {
+    "bypass": "AssassinsCreedOrigins.zip",
     "howto": [
-      "Baixe o <b>Assassin’s Creed Valhalla</b> normalmente pela sua Steam (a versao base do jogo)",
+      "Baixe o <b>Assassin's Creed Origins</b> normalmente pela sua Steam (a versao base do jogo)",
       "Aqui no OVERISE, na aba <b>Bypass</b>, clique em <b>Aplicar</b> (troca os arquivos na pasta do jogo)",
-      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACValhalla.exe)",
+      "Abra o jogo <b>SEMPRE por aqui no OVERISE</b> clicando em <b>Iniciar</b> (abre pelo ACOrigins.exe com o bypass ativo)",
       "<b>Nunca abra pela Steam</b>, senao o jogo nao abre. So funciona pelo bypass"
     ],
-    "launch": "ACValhalla.exe",
-    "name": "Assassin’s Creed Valhalla"
+    "launch": "ACOrigins.exe",
+    "name": "Assassin's Creed Origins"
   },
   "752590": {
     "name": "A Plague Tale: Innocence"
